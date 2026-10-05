@@ -8,7 +8,7 @@
 |---|---|---|
 | [HR-Analytics-Project](https://github.com/anmoljames/HR-Analytics-Project) | End-to-end HR analytics: Python data cleaning + EDA, MySQL integration, interactive Power BI dashboard (attrition, salary trends, performance vs satisfaction) | [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzZlNDRiY2UtNmVlOC00MzhjLTgzNzMtOGU0NTE1YmYxMjAzIiwidCI6IjZjZTcwOTA0LTUwOWMtNGI0Zi1iNjc2LTJiMGRlZjA3M2U2YyJ9) |
 | [Healthcare-Analytics](https://github.com/anmoljames/Healthcare-Analytics) | Hospital-operations analytics on 12,000 synthetic visits: MySQL schema + KPI queries, seeded Python generator, Power BI star schema with DAX | — |
-| [moviewebapp](https://github.com/anmoljames/moviewebapp) | Movix — React + Vite movie/TV discovery app on the TMDB API (Redux, infinite scroll, trailers, ratings) | [Live demo](https://moviewebapp-ten.vercel.app/) |
+| [Movix](https://github.com/anmoljames/Movix) | Movix — React + Vite movie/TV discovery app on the TMDB API (Redux, infinite scroll, trailers, ratings) | [Live demo](https://moviewebapp-ten.vercel.app/) |
 
 ## 🛠️ Stack
 
