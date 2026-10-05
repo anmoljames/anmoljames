@@ -24,3 +24,4 @@
 ## 📫 Connect
 
 - GitHub: [@anmoljames](https://github.com/anmoljames)
+- LinkedIn: [Anmol James R](https://www.linkedin.com/in/anmol-james-r)
