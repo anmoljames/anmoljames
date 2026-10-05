@@ -21,11 +21,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 📊 GitHub stats
-
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmoljames&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmoljames&layout=compact&hide_border=true)
-
 ## 📫 Connect
 
 - GitHub: [@anmoljames](https://github.com/anmoljames)
