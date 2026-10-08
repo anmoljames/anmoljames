@@ -1,6 +1,6 @@
-# Hi, I'm Anmol James R 👋
+# Hi, I'm Anmol
 
-**Data Analyst** — I turn raw data into decisions with **Power BI, SQL and Python**, and I build **React** front-ends.
+**Data Analyst**  I turn raw data into decisions with **Power BI, SQL and Python**, and I build **React** front-ends.
 
 ## 🔥 Featured projects
 
